@@ -18,7 +18,7 @@ public class Exercicio1 {
         b = b * 7.5;
         media = (a + b) / 11;
 
-        System.out.println("MÉDIA = " + media);
+        System.out.println("MÉDIA = " + media); // Aqui será exibido o resultado
 
     }
 }
